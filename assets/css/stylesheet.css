@@ -1,9 +1,3 @@
-@media only screen and (max-width: 600px) {
-  .badge-secondary {
-      display:none;
-  }
-}
-
 .row-striped:nth-of-type(odd){
   background-color: #efefef;
   border-left: 4px #000000 solid;
